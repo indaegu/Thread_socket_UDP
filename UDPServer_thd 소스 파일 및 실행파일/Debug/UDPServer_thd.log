@@ -1,0 +1,6 @@
+﻿  UDPServer_thdDlg.cpp
+g:\내 드라이브\3학년 1학기\데이터통신및실습\랩 10 체크섬 포함 코드\udpserver_thd\udpserver_thd\udpserver_thddlg.cpp(98): warning C4333: '>>': 오른쪽 시프트 횟수가 너무 커 데이터가 손실됩니다.
+g:\내 드라이브\3학년 1학기\데이터통신및실습\랩 10 체크섬 포함 코드\udpserver_thd\udpserver_thd\udpserver_thddlg.cpp(503): warning C4333: '>>': 오른쪽 시프트 횟수가 너무 커 데이터가 손실됩니다.
+DataSocket.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:LBR' 사양으로 인해 무시됩니다.
+  UDPServer_thd.vcxproj -> G:\내 드라이브\3학년 1학기\데이터통신및실습\랩 10 체크섬 포함 코드\UDPServer_thd\Debug\UDPServer_thd.exe
+  UDPServer_thd.vcxproj -> G:\내 드라이브\3학년 1학기\데이터통신및실습\랩 10 체크섬 포함 코드\UDPServer_thd\Debug\UDPServer_thd.pdb (Partial PDB)

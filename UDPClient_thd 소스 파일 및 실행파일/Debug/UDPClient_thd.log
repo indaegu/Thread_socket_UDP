@@ -1,0 +1,6 @@
+﻿  UDPClient_thdDlg.cpp
+g:\내 드라이브\3학년 1학기\데이터통신및실습\랩 10 체크섬 포함 코드\udpclient_thd\udpclient_thd\udpclient_thddlg.cpp(101): warning C4333: '>>': 오른쪽 시프트 횟수가 너무 커 데이터가 손실됩니다.
+g:\내 드라이브\3학년 1학기\데이터통신및실습\랩 10 체크섬 포함 코드\udpclient_thd\udpclient_thd\udpclient_thddlg.cpp(491): warning C4333: '>>': 오른쪽 시프트 횟수가 너무 커 데이터가 손실됩니다.
+DataSocket.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:LBR' 사양으로 인해 무시됩니다.
+  UDPClient_thd.vcxproj -> G:\내 드라이브\3학년 1학기\데이터통신및실습\랩 10 체크섬 포함 코드\UDPClient_thd\Debug\UDPClient_thd.exe
+  UDPClient_thd.vcxproj -> G:\내 드라이브\3학년 1학기\데이터통신및실습\랩 10 체크섬 포함 코드\UDPClient_thd\Debug\UDPClient_thd.pdb (Partial PDB)
